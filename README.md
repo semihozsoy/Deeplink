@@ -2,7 +2,7 @@
 
 # Usage
 We are going to use deeplink manager in the AppDelegate
-```
+```swift
 @UIApplicationMain class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     var deeplinkManager: DeeplinkManager!
